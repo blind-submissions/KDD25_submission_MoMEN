@@ -1,0 +1,6 @@
+raw_data_root: "xxxx/raw_data"
+data_root: "datasets/cell_painting"
+chemical_annotations_file: "xxxx/chemical_annotations.csv"
+profiles_dir: "xxxx/profiles.dir"
+unique_smiles: True
+complete_views: True

@@ -1,0 +1,21 @@
+{
+    "seed": 42,
+    "l1k_path": "./data/l1k.pkl",
+    "wandb": "False",
+    "epochs": 35,
+    "notes": "--",
+    "img_root": "",
+    "checkpoint_path": "../checkpoints",
+    "batch_size": 243,
+    "fixed_gnn": 0,
+    "gene_hidden_dim": 512,
+    "gene_num_layers": 3,
+    "gene_dropout": 0.1,
+    "gene_method": "con",
+    "load_pretrained": 0,
+    "encoder_lr": 1e-4,
+    "projector_lr": 1e-4,
+    "encoder_wd": 0.1,
+    "projector_wd": 0,
+    "model": "momen"
+}
